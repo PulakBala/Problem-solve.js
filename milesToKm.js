@@ -6,3 +6,7 @@ function milesToKilometers(miles) {
 const dhakaToSavarkm = 2;
 const dhakaToSavarmiles = milesToKilometers(dhakaToSavarkm);
 console.log(dhakaToSavarmiles);
+
+const dhakaToMadaripurKm = 140;
+const dhakaToMadaripurMiles = milesToKilometers(dhakaToMadaripurKm);
+console.log(dhakaToMadaripurMiles);
