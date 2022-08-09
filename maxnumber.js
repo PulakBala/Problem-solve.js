@@ -1,3 +1,5 @@
+// writ ea function that will take 3 numbers will return the max numbers
+
 function maxNumber (num1, num2, num3) {
     
     if(num1 > num2 && num1 > num3) {
